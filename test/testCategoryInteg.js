@@ -9,7 +9,7 @@ describe('Integ Categories', function () {
     
     let importCategoryFile = {
         req: {
-            url: "/api/categories/bulk/ademe",
+            url: "/api/import/bulk/ademe",
             method: "POST",
             file: {
                 field: "xlsx.ademe.trunk",
