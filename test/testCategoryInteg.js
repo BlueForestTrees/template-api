@@ -1,7 +1,7 @@
 import path from 'path'
 import api from "../src"
 import ENV from "../src/env"
-import {init, withTest} from "test-api-express-mongo/dist/api"
+import {init, withTest} from "test-api-express-mongo"
 
 describe('Integ Categories', function () {
     
