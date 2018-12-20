@@ -1,7 +1,8 @@
 const debug = require('debug')('api:XXX')
-import {version} from './../package.json'
+import {version, name} from './../package.json'
 
 const ENV = {
+    NAME:name,
     PORT: process.env.PORT || 80,
     
     REST_PATH: process.env.REST_PATH || "rest",
