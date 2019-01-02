@@ -1313,9 +1313,10 @@ expand-range@^1.8.1:
   dependencies:
     fill-range "^2.1.0"
 
-express-blueforest@1.0.18:
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/express-blueforest/-/express-blueforest-1.0.18.tgz#3739228de13548c4d8d01510a66e58a8c6e4393a"
+express-blueforest@1.0.20:
+  version "1.0.20"
+  resolved "https://registry.yarnpkg.com/express-blueforest/-/express-blueforest-1.0.20.tgz#af6f248f67761b8636a9721eb56e148539574fe0"
+  integrity sha512-p/tMvpnOxIX+BJgyq603PapE9NGzIDeM6vvto4ZkHJILfwol6oFXgYJrutI6hhgVIn1mfQIjFoM1kxjyDDXVCg==
   dependencies:
     body-parser "1.18.3"
     express "4.16.3"
